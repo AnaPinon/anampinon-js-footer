@@ -1,0 +1,25 @@
+{
+  "name": "anamp-js-footer",
+  "version": "0.1.0",
+  "description": "Este modulo permite crear un pie de página dinámico generado a través de un aplicación de JS donde se actualiza el año y el nombre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaPinon/anampinon-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Ana <ana.m.pinon@gmail.com> (https://github.com/AnaPinon/checkpointwebpage.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnaPinon/anampinon-js-footer/issues"
+  },
+  "homepage": "https://github.com/AnaPinon/anampinon-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
